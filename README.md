@@ -65,8 +65,8 @@ At this stage, everything should work without a graphical interface.
 
 Your file structure should look like this:
 
-![][image1]
-
+![](https://raw.githubusercontent.com/meet-projects/Y2-Summer26-Pairs/refs/heads/main/backend.png
+)
 ### ✅ Backend Checklist
 
 Before moving on, make sure every statement below is true.
@@ -104,7 +104,8 @@ Steps:
 
 Your file structure should look like this:
 
-![][image2]
+![](https://raw.githubusercontent.com/meet-projects/Y2-Summer26-Pairs/refs/heads/main/backend.png
+)
 
 ### Connection Checklist
 
